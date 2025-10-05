@@ -1,0 +1,12 @@
+# PlatformIO build folders
+.pio/
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Custom untracked folders
+not_tracked/
+
+# Optional: logs or caches
+*.log
